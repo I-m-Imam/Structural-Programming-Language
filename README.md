@@ -1,18 +1,18 @@
 # Structural Programming Language — C Programming
 
-Author: Md Imam Uddin  
-Department: Computer Science & Engineering (CSE), 1st Year 1st Semester  
+**Author:** Md Imam Uddin  
+**Department:** Computer Science & Engineering (CSE), 1st Year 1st Semester  
 
 ---
 
-💻 About This Repository
-Welcome! This repository serves as my personal digital workspace for my Structural Programming Language coursework. Here, I document my journey of learning C, practicing algorithmic logic, and building a solid foundation in programming. 
+## 💻 About This Repository
+Welcome! This repository serves as my personal digital workspace for my **Structural Programming Language** coursework. Here, I document my journey of learning C, practicing algorithmic logic, and building a solid foundation in programming. 
 
-The problems solved here include exercises from W3Schools, university lab assignments, my own projects and various foundational C problem sets.
+The problems solved here include exercises from **W3Schools**, university lab assignments, my own projects and various foundational C problem sets.
 
 ---
 
-🧩 Concepts & Topics Explored
+## 🧩 Concepts & Topics Explored
 Throughout this semester, I am actively applying and experimenting with core C programming concepts:
 * Variables, data types, and operators
 * Input and output operations (`scanf`, `printf`)
@@ -24,8 +24,8 @@ Throughout this semester, I am actively applying and experimenting with core C p
 
 ---
 
-🌱 What I Am Gaining
-** Resilience & Problem-Solving:** Learning how to think through logic and debug code effectively.
+## 🌱 What I Am Gaining
+* **Resilience & Problem-Solving:** Learning how to think through logic and debug code effectively.
 * **Core Programming Foundations:** Gaining a deep understanding of how memory, logic, and program execution flow work under the hood.
 * **Consistency:** Continuously updating this repository as I progress through my university coursework.
 
